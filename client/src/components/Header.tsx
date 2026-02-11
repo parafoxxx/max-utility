@@ -18,9 +18,9 @@ export default function Header() {
         <div className="flex items-center justify-between gap-4">
           <Link href="/" className="flex items-center gap-2">
             <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center text-white font-bold text-lg">
-              U
+              T
             </div>
-            <span className="font-bold text-lg hidden sm:inline">Utility Tools</span>
+            <span className="font-bold text-lg hidden sm:inline">ToolMint</span>
           </Link>
 
           <nav className="hidden md:flex items-center gap-6 text-sm">

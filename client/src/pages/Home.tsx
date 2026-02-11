@@ -264,7 +264,7 @@ export default function Home() {
         <section className="container py-12 md:py-16">
           <div className="rounded-2xl border border-border/60 bg-linear-to-br from-primary/10 via-background to-accent/20 p-8 md:p-12 shadow-sm">
             <div className="max-w-3xl">
-              <h1 className="text-4xl md:text-5xl font-bold mb-4">Free Utility Tools for Fast Workflows</h1>
+              <h1 className="text-4xl md:text-5xl font-bold mb-4">ToolMint: Free Utility Tools for Fast Workflows</h1>
               <p className="text-lg text-muted-foreground mb-6">
                 One place for text, media, PDF, and business tools. Private by default, responsive on mobile, and optimized for speed.
               </p>

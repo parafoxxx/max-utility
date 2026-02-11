@@ -6,7 +6,7 @@ export default function Footer() {
           <div>
             <h3 className="font-bold text-lg mb-4">About</h3>
             <p className="text-muted-foreground text-sm">
-              Free online utility tools for developers, students, and professionals.
+              ToolMint provides free online tools for developers, students, and professionals.
             </p>
           </div>
 
@@ -41,7 +41,7 @@ export default function Footer() {
 
         <div className="border-t border-border pt-8">
           <p className="text-center text-muted-foreground text-sm">
-            (c) 2026 Utility Tools. All rights reserved. Free online tools that are fast, secure, and no-login.
+            (c) 2026 ToolMint. All rights reserved. Free online tools that are fast, secure, and no-login.
           </p>
         </div>
       </div>
